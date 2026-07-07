@@ -51,10 +51,6 @@ Although these factors are interconnected, they are generally analyzed independe
 
 ## 🏗️ Project Workflow
 
-<p align="center">
-  <img src="images/workflow.png" width="450" alt="FSVI Workflow">
-</p>
-
 ### Pipeline
 
 1. Data Collection
@@ -204,5 +200,3 @@ The system generates:
 - Real-time recommendation dashboard
 
 ---
-
-w.linkedin.com/in/veronika-dhingra/
